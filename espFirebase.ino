@@ -7,6 +7,7 @@
 
 #include <ESP8266WiFi.h>
 
+//remember that auth can change
 #define FIREBASE_HOST "kwiatuchy-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "zvf5pfv15rDvb4PLDmyibJvSooxULXecmfJgKleL"
 #define WIFI_SSID "Ania"
