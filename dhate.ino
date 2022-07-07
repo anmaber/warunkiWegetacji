@@ -1,6 +1,7 @@
 #include "DHT.h"
 #include <SoftwareSerial.h>
 
+//UART programowy
 SoftwareSerial mySerial(8,9); //RX TX
 #define DHT11_PIN 4
 
